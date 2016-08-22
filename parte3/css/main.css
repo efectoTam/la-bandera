@@ -1,0 +1,16 @@
+.yellow{
+	background-color: #FFF71E
+}
+
+.red{
+	background-color: red;
+}
+
+.yellow, .red{
+	height: 100px;
+	width: 200px;
+	margin-bottom: 10px;
+	margin-right: 10px;
+	padding: 10px;
+	display: inline-block;
+}
